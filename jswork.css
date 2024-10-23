@@ -1,0 +1,40 @@
+#main div div{
+  width: 100px;
+  height:100px ;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin:10px;
+}
+#div1{
+  background-image: url("https://m.media-amazon.com/images/I/91s7rC+IDBL._SX679_.jpg ");
+  background-size: cover;
+}
+#div2{
+  background-image: url("https://m.media-amazon.com/images/I/817p7j0CaFL._AC_SY200_.jpghttps://m.media-amazon.com/images/I/91s7rC+IDBL._SX679_.jpg ");
+  background-size: cover;
+}
+#div3{
+  background-image: url("https://m.media-amazon.com/images/I/81IoTi3WNiL._AC_SY200_.jpghttps://m.media-amazon.com/images/I/91s7rC+IDBL._SX679_.jpg ");
+  background-size: cover;
+}
+#div4{
+  background-image: url("https://m.media-amazon.com/images/I/41QYY6zfX3L._SY445_SX342_QL70_FMwebp_.jpghttps://m.media-amazon.com/images/I/91s7rC+IDBL._SX679_.jpg ");
+  background-size: cover;
+}
+#div5{
+  background-image: url("https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/3c452182-f887-4812-bc9c-91f144ebf16a._CR0,1562,3563,1865_SX507_QL70_.jpghttps://m.media-amazon.com/images/I/91s7rC+IDBL._SX679_.jpg ");
+  background-size: cover;
+}
+#output{
+  width: 500px;
+  height: 500px;
+  background-image: url("https://m.media-amazon.com/images/I/91s7rC+IDBL._SX679_.jpg ");
+  background-size: cover;
+  border: 1px solid black;
+  border-radius: 2px;
+}
+#main{
+  display: flex;
+}
+
+
